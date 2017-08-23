@@ -1,5 +1,9 @@
 adding some line of text.
 Committing the changes from my-roject directory.
+
+ I start working on a feature3
 amending the commit after pushing the changes.
 aommitting before amending the changes.
  I start working on a feature
+
+ I start working on a feature 2
