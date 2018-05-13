@@ -4,3 +4,5 @@
  Amending the commit one more time
  Amending the commit one more time in the master branch.
  Adding some changes in the master branch.
+ Adding new line from mstftikir
+ One more line is added by mstftikir
