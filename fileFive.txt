@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Some new text adding..
+=======
+New file created.
+>>>>>>> master
