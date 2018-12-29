@@ -1,5 +1,10 @@
 check 2
 
+<<<<<<< HEAD
 
- Work on the pull request feature and provide comments on Github UI 
+Merge completed 
+=======
+>>>>>>> 101da0cea16e7fec0683e6fdb152b2b19732a0d4
 Work on the pull request feature and provide comments on Github UI 
+
+
